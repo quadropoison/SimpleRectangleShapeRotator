@@ -1,0 +1,8 @@
+# Directories
+
+.vs/
+Debug/
+SimpleRectangleShapeRotator/Debug/
+
+# Files
+*.user
